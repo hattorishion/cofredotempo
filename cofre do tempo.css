@@ -54,14 +54,11 @@ body {
   background-image: url(https://i.imgur.com/qBLPdGU.png);
   background-repeat: repeat;
   color: white;
-  height: 448px;
 }
 
 .banner__contents {
   margin-left: 30px;
   padding-top: 100px;
-  height: 445px;
-  max-height: 445px;
   overflow-y: auto;
 }
 
