@@ -54,7 +54,6 @@ body {
   background-image: url(https://i.imgur.com/qBLPdGU.png);
   background-repeat: repeat;
   color: white;
-  object-fit: contain;
   height: 448px;
 }
 
