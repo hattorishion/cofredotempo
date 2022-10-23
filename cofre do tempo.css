@@ -53,9 +53,9 @@ body {
 .banner {
   background-image: url(https://i.imgur.com/qBLPdGU.png);
   background-repeat: repeat;
-  background-position: center center;
   color: white;
   object-fit: contain;
+  height: 448px;
 }
 
 .banner__contents {
